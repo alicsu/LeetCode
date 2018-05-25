@@ -1,8 +1,3 @@
-/*编写一个函数来查找字符串数组中的最长公共前缀。
-
-如果不存在公共前缀，返回空字符串 ""
-仅考虑字符串字母为a-z的情况
-*/
 var longestPrefix = function(strs){
 	// 定义数组的长度
 	var len = strs.length;
